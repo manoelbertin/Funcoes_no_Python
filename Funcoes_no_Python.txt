@@ -1,0 +1,42 @@
+FUNÇÕES NO PYTHON
+
+Uma função é um conjunto de comandos que "executa alguma tarefa específica"(no singular).
+
+
+Funções possuem "um nome", podem receber "parâmetros" e "podem" retornar outros dados.
+
+
+A sua "principal finalidade" -> é nos ajudar a "organizar" programas em "pedaços"
+
+que correspondam a como "imaginamos" uma solução do problema.
+
+
+sintaxe:
+
+def nome_funcao(parametros):
+    # bloco do código
+    print('Bloco do código')
+    return
+
+1- Iniciamos com a palavra reservada "def"; dizer ao Python que vamos iniciar uma nova função;
+
+2- Uma boa prática é utilizar nomes de funções que façam sentido!
+
+3- Em seguida utilizamos os parênteses para definirmos os parâmetros da função, isto é:
+
+   Os dados que são utilizados como "ENTRADA".(Essa parte é opcional);
+
+4- Em seguida, codificamos o bloco de código que será executado por essa função.
+
+5- Por último, devemos ou não utilizar a palavra reservada "return" para indicar o retorno de
+   
+   algum dado ao techo de código que fez a chamada à função.
+
+
+
+
+
+
+
+
+
